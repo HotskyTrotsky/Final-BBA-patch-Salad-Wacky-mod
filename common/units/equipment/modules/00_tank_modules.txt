@@ -740,8 +740,9 @@ tank_cast_armor = {
 		}
 		build_cost_resources = {
 			steel = 4
+		}
 		dismantle_cost_ic = 1
-	}
+	
 	}
 	# Fixed Light Casemate
 #	tank_light_superstructure = { ## TIER 5 ##
