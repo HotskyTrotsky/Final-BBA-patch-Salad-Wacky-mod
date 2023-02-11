@@ -1337,6 +1337,7 @@ discord_sex_trait = {
 				build_cost_ic = -0.15
 				soft_attack = -0.05
 				hard_attack = -0.05
+				breakthrough = -0.05
 				reliability = -0.1
 		}
 		}
