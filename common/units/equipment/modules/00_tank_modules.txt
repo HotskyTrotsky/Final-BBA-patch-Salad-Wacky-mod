@@ -189,7 +189,6 @@ tank_cast_armor = {
 		multiply_stats = {
 		}
 		build_cost_resources = {
-			chromium = 5
 			steel = 5
 		}
 		dismantle_cost_ic = 1
