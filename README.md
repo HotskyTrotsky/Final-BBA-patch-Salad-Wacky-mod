@@ -101,3 +101,15 @@ Infantry Stuff:
 - Squad Equipment 3 IC 2.8 -> 2.6
 - Squad Equipment 4 Piercing 30 -> 38
 - Squad Equipment 4 IC 3.2 -> 2.8
+
+New custimizeable game rules (stuff you choose when starting a new game)
+-Number of chinese waves (1, 2, 3 is max)
+
+-Voice lines (not sure what this is but my guess disables some voice lines added by tfb
+
+-fatherless spirit
+
+
+
+Overall if you want a list of some more (but very minor and unimportant) changes check update logs of TFB starting from around september 2022.
+
