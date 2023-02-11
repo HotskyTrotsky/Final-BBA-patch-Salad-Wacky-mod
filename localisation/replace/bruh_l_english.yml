@@ -66,6 +66,7 @@
  ROM_expand_greater_romania:0 "Expand Greater Romania"
  ROM_expand_greater_romania_desc:0 "Romania grows even larger!"
  HUN_german_cooperation:0 "German Military Cooperation"
+ BUL_mechanized_weaponry:0 "Mechanized Weaponry"
  continuous_factory_retooling:0 "Factory Retooling"
  continuous_factory_retooling_desc:0 "The process of workers learning to build new types of equipment needs to be accelerated."
  continuous_modernisation_effort:0 "Modernisation Effort"
