@@ -24,6 +24,10 @@ Changes in sea and air zones for: Red sea, Persian gulf, Straits of malacca, Den
 
 flying boats have been brought back to tfb stats and should not be over powered
 
+Horse equipment cost increased but still less than that in tfb mod
+
+
+
 TFB changes that have made their way into this mod:
 
 -FLOATING_HARBOR_INITIAL_SUPPLY_FLOW increased from 2.6 to 3.0
@@ -105,7 +109,7 @@ Infantry Stuff:
 New custimizeable game rules (stuff you choose when starting a new game)
 -Number of chinese waves (1, 2, 3 is max)
 
--Voice lines (not sure what this is but my guess disables some voice lines added by tfb
+-Voice lines (not sure what this is but my guess disables some voice lines added by tfb)
 
 -fatherless spirit
 
