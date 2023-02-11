@@ -2015,7 +2015,7 @@ focus_tree = {
 			add_tech_bonus = {
 			    ahead_reduction = 1
 			    uses = 1
-			    category = cat_medium_armor
+			    category = cat_heavy_armor
 			}
 		}
 	}
