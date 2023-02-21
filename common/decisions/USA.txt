@@ -54,7 +54,7 @@ USA_cash_and_carry = {
 			custom_effect_tooltip = USA_sells_guns
 		}
 	}
-	USA_allow_supeq_sales = {
+	USA_cancel_gun_sales = {
 
 		allowed = {
 			original_tag = USA
