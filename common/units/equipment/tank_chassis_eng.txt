@@ -130,9 +130,9 @@ equipments = {
 			turret_type_slot = 	{	
 				required = yes	
 				allowed_module_categories = {
-					tank_light_turret_type_1
-					tank_light_turret_type_2
-					tank_light_turret_type_3
+					#tank_light_turret_type_1
+					#tank_light_turret_type_2
+					#tank_light_turret_type_3
 					tank_medium_turret_type_1
 					tank_medium_turret_type_5
 					tank_medium_turret_type_6
@@ -170,9 +170,9 @@ equipments = {
 			turret_type_slot = 	{	
 				required = yes	
 				allowed_module_categories = {
-					tank_light_turret_type_1
-					tank_light_turret_type_2
-					tank_light_turret_type_3
+					#tank_light_turret_type_1
+					#tank_light_turret_type_2
+					#tank_light_turret_type_3
 					tank_medium_turret_type_1
 					tank_medium_turret_type_5
 					tank_medium_turret_type_6
@@ -243,9 +243,9 @@ equipments = {
 			turret_type_slot = 	{	
 				required = yes	
 				allowed_module_categories = {
-					tank_light_turret_type_1
-					tank_light_turret_type_2
-					tank_light_turret_type_3
+					#tank_light_turret_type_1
+					#tank_light_turret_type_2
+					#tank_light_turret_type_3
 					tank_medium_turret_type_1
 					tank_medium_turret_type_2
 					tank_medium_turret_type_5
@@ -285,9 +285,9 @@ equipments = {
 			turret_type_slot = 	{	
 				required = yes	
 				allowed_module_categories = {
-					tank_light_turret_type_1
-					tank_light_turret_type_2
-					tank_light_turret_type_3
+					#tank_light_turret_type_1
+					#tank_light_turret_type_2
+					#tank_light_turret_type_3
 					tank_medium_turret_type_1
 					tank_medium_turret_type_2
 					tank_medium_turret_type_3
@@ -365,9 +365,9 @@ equipments = {
 			turret_type_slot = 	{		
 				required = yes
 				allowed_module_categories = {
-					tank_light_turret_type_1
-					tank_light_turret_type_2
-					tank_light_turret_type_3
+					#tank_light_turret_type_1
+					#tank_light_turret_type_2
+					#tank_light_turret_type_3
 					tank_medium_turret_type_1
 					tank_medium_turret_type_2
 					tank_medium_turret_type_3
@@ -412,9 +412,9 @@ equipments = {
 			turret_type_slot = 	{		
 				required = yes
 				allowed_module_categories = {
-					tank_light_turret_type_1
-					tank_light_turret_type_2
-					tank_light_turret_type_3
+					#tank_light_turret_type_1
+					#tank_light_turret_type_2
+					#tank_light_turret_type_3
 					tank_medium_turret_type_1
 					tank_medium_turret_type_2
 					tank_medium_turret_type_3
@@ -529,9 +529,9 @@ equipments = {
 			turret_type_slot = 	{	
 				required = yes	
 				allowed_module_categories = {
-					tank_light_turret_type_1
-					tank_light_turret_type_2
-					tank_light_turret_type_3
+					#tank_light_turret_type_1
+					#tank_light_turret_type_2
+					#tank_light_turret_type_3
 					tank_medium_turret_type_1
 					tank_medium_turret_type_2
 				}
@@ -729,7 +729,7 @@ equipments = {
 			turret_type_slot = 	{
 				required = yes
 				allowed_module_categories = {
-					ank_medium_turret_type_1
+					tank_medium_turret_type_1
 					tank_medium_turret_type_2
 					tank_medium_turret_type_3
 					tank_heavy_turret_type_1
