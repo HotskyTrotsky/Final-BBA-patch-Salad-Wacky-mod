@@ -76,7 +76,7 @@ equipments = {
 		resources = {
 			tungsten = 5
 			steel = 20
-
+		}
 	}
 	
 	anti_tank_equipment_3 = {
