@@ -398,10 +398,10 @@ USA_cash_and_carry = {
 			}
 		
 			custom_effect_tooltip = USA_sells_arty
-		}
-	}
-	}	
-}
+				}
+			}
+		}	
+
 
 USA_lend_lease_act = {
 	
@@ -1304,12 +1304,11 @@ USA_lend_lease_act = {
 				    type = artillery_equipment
 				    amount = 500
 				    producer = USA
+					}
 				}
 			}
 		}
 	}
-
-}
 
 USA_department_of_defense = {
 	
@@ -1542,11 +1541,11 @@ USA_department_of_defense = {
 				create_unit = {
 				    division = "name = \"American Desert Corps\" division_template = \"American Desert Corps\" start_experience_factor = 0.25 start_equipment_factor = 0 start_manpower_factor = 0"
 				    owner = USA
+					}
 				}
 			}
 		}
-	}
-}
+	
 	USA_operation_husky = {
 
 		icon = GFX_decision_generic_operation
