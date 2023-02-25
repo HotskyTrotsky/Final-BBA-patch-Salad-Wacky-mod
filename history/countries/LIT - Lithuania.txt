@@ -4,7 +4,7 @@ oob = "LIT_1936"
 
 set_research_slots = 3
 
-add_ideas = 
+#add_ideas = 
 #stupid_ai
 
 # if = {
