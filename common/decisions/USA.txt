@@ -1546,7 +1546,7 @@ USA_department_of_defense = {
 			}
 		}
 	}
-
+}
 	USA_operation_husky = {
 
 		icon = GFX_decision_generic_operation
