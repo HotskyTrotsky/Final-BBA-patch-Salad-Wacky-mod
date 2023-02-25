@@ -261,7 +261,7 @@ ENG_purchase_guns = {
 				remove_ideas = USA_cash_and_carry_purchase_ENG
 			}
 		}
-	}
+	
 	
 
 	ENG_purchase_mech = {
@@ -1963,11 +1963,12 @@ RAJ_purchase_guns = {
 			}	
 			add_ideas = {
 				USA_cash_and_carry_purchase_RAJ
+						}
+					}	
 				}
-			}	
+			}
 		}
-    	}
-}
+	
 host_decisions = {
 	end_spanish_civil_war = {
 
@@ -2005,6 +2006,7 @@ host_decisions = {
 		}
 
 	}
+}
 political_actions = {
 
 	
